@@ -1,4 +1,4 @@
-GUI Calculator
+Upgraded GUI Calculator
 
 Task:
-Build a simple GUI calculator (add/subtract only) with buttons that trigger event handler functions and a label that updates.
+Upgrade GUI calculator from WEEK 3, using grid layout, labels, buttons and text boxes
